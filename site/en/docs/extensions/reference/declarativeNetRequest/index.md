@@ -351,7 +351,7 @@ is determined based on the priority of each rule and the operations specified.
       ]
     },
     "condition": { "urlFilter": "headers.com/12345", "resourceTypes": ["main_frame"] }
-  },
+  }
 ]
 ```
 
